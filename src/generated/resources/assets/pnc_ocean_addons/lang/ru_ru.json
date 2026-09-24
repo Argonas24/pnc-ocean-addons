@@ -1,0 +1,13 @@
+{
+  "item.pnc_ocean_addons.depth_upgrade_1": "Улучшение — Глубина I",
+  "item.pnc_ocean_addons.depth_upgrade_2": "Улучшение — Глубина II",
+  "pnc_ocean_addons.configuration.depth_damage": "Урон от давления воды в секунду",
+  "pnc_ocean_addons.configuration.depth_upgrade_0_limit": "Макс. безопасная глубина (без улучшения)",
+  "pnc_ocean_addons.configuration.depth_upgrade_1_limit": "Макс. безопасная глубина (с улучшением уровня 1)",
+  "pnc_ocean_addons.configuration.depth_upgrade_2_limit": "Макс. безопасная глубина (с улучшением уровня 2)",
+  "pnc_ocean_addons.depth_alarm": "ВНИМАНИЕ: Превышена глубина сжатия в %s м!",
+  "pnc_ocean_addons.depth_display": "Глубина: %s м",
+  "pnc_ocean_addons.depth_upgrade.tooltip": "Макс. безопасная глубина погружения: %s м",
+  "pnc_ocean_addons.depth_warning": "ВНИМАНИЕ: Приближение к опасной глубине %s м!",
+  "pneumaticcraft.armor.upgrade.pnc_ocean_addons.depth": "Защита от давления воды"
+}
